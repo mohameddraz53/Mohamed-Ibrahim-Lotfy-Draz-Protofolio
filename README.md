@@ -1,6 +1,6 @@
 # Mohamed Ebrahim Lotfy Draz
 
-## Junior DevOps Engineer | AWS Certified | Kubernetes & Terraform Enthusiast | DEPI Scholar
+## DevOps Engineer | AWS Certified | Kubernetes & Terraform Enthusiast | DEPI Scholar
 
     Junior DevOps Engineer | AWS Cloud Architecture & Infrastructure Automation Specialist
     Electronics and Communications Engineer with a solid foundation in Cloud Computing and DevOps methodologies. Proven experience in designing and deploying     production-ready environments on AWS using Terraform and CloudFormation.
